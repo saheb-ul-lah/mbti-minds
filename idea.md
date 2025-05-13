@@ -1,4 +1,3 @@
----
 **Project:** Fix the Broken (FTB) - The Grand Vision
 ---
 
