@@ -31,31 +31,31 @@ We're not here just to *talk* about problems. We're here to **build** solutions.
 
 Before we can fix things, we need to understand what's wrong. The "broken" parts of our society are interconnected problems. FTB aims to tackle these core issues:
 
-## **1.1. The Feeling of Disconnection** 🌉
+#1.1. The Feeling of Disconnection** 🌉
     ### **1.1.1. People Feeling Powerless**
         Many people feel like their voice doesn't count. They see problems every day – potholes, bad service, pollution – but feel like they can't do anything about it. This makes them feel cynical and disconnected. *FTB Aim: Turn feeling powerless into feeling empowered.*
     ### **1.1.2. Lack of Easy Ways to Engage**
         Current ways to give feedback (like government websites or offices) can feel slow, confusing, or like nobody is listening. They usually don't let people work together on solutions or see the progress openly. *FTB Aim: Offer a clear, easy, action-focused alternative.*
 
-## **1.2. Separated Knowledge and Skills** 🧱🧱
+#1.2. Separated Knowledge and Skills** 🧱🧱
     ### **1.2.1. Skills Not Connected**
         Solving problems often needs different types of skills. An engineer might design something, but they need someone to help the community use it, someone to spread the word, and maybe a lawyer to help with rules. These people rarely connect easily for local problems. *FTB Aim: Bring people with different skills together.*
     ### **1.2.2. Local Genius Not Used**
         Smart solutions are often created out of necessity in local areas (*Jugaad*), but they stay local and aren't shared or scaled up. The wisdom of farmers, craftspeople, local technicians, and elders is often ignored by official systems. *FTB Aim: Find, record, share, and grow these local smart ideas.*
 
-## **1.3. The Difficulty of Taking Action** ⏳🚧
+#1.3. The Difficulty of Taking Action** ⏳🚧
     ### **1.3.1. The Gap Between Ideas and Action**
         Many places let you share ideas (social media) or sign petitions (Change.org). But there's a big gap in supporting the *whole process* – from the first idea, to working together, building a test version, finding help, and seeing the real impact. *FTB Aim: Be a complete system for civic solutions, from start to finish.*
     ### **1.3.2. Not Enough Resources**
         Good ideas often die because they lack money, advice, technical help, or connections to decision-makers. Local innovators find it hard to get what they need. *FTB Aim: Connect good ideas with the resources to make them happen.*
 
-## **1.4. Lack of Trust and Openness** 🤔🤝
+#1.4. Lack of Trust and Openness** 🤔🤝
     ### **1.4.1. Decisions Made in Secret**
         Sometimes decisions that affect communities are made without people knowing how or why. This creates mistrust. *FTB Aim: Encourage complete openness in citizen-led problem-solving.*
     ### **1.4.2. No Clear Responsibility**
         When problems are reported or ideas are suggested through old channels, it's often hard to know who is supposed to act and what's being done. *FTB Aim: Create clear links showing who is responsible – citizens, solution builders, funders, and authorities.*
 
-## **1.5. Trouble Scaling Up Solutions** 📈🌍
+#1.5. Trouble Scaling Up Solutions** 📈🌍
     ### **1.5.1. Solutions Stay Local**
         A great solution in one village might stay there. There's no easy way to share what worked, adapt it for other places, and repeat the success across the country. *FTB Aim: Be a national hub for sharing and scaling up proven solutions.*
 
@@ -101,7 +101,7 @@ This will clearly improve quality of life, make communities stronger, and help o
 
 This is the core of FTB – a detailed look at the connected parts designed to create a thriving system.
 
-## **3.1. Module 1: Finding & Understanding Problems (*The Listening Post*)** 👂🗺️
+#3.1. Module 1: Finding & Understanding Problems (*The Listening Post*)** 👂🗺️
     ### **3.1.1. Reporting Problems with Location (**`Pinpoint`**)**
         *   **What:** Users can report problems they see in their community in detail.
         *   **How:** Using the website or app, users mark a location on a map, choose categories (like Roads, Environment, Health), give a title, explain the issue, upload photos/videos/audio, and say how serious or urgent it is.
@@ -127,7 +127,7 @@ This is the core of FTB – a detailed look at the connected parts designed to c
         *   **How:** An interactive map you can filter by location (state, district, city/village), problem type, seriousness, date, or keywords. Uses data from `Pinpoint` reports.
         *   **Why:** Shows the state of the nation from the citizens' view like never before. A powerful tool for journalists, researchers, policymakers, and NGOs.
 
-## **3.2. Module 2: Creating & Designing Solutions (*The Innovation Lab*)** 💡🔬🎨
+#3.2. Module 2: Creating & Designing Solutions (*The Innovation Lab*)** 💡🔬🎨
     ### **3.2.1. Proposing Solutions Clearly (**`Blueprint Builder`**)**
         *   **What:** A structured way for users to suggest solutions linked to specific problems.
         *   **How:** Users choose a problem (or suggest a solution proactively), then fill in fields like: Solution Title, Detailed Plan, Resources Needed (skills, money, materials), Steps to Implement (basic plan), Expected Impact, How it Can Be Scaled/Copied, Ethical Points. Option to upload drawings, diagrams, mockups, presentations.
@@ -145,7 +145,7 @@ This is the core of FTB – a detailed look at the connected parts designed to c
         *   **How:** A "Fork this Solution" button creates a new, linked proposal with the original content, ready for changes. The original creator is always credited.
         *   **Why:** Makes it easy to adapt and improve ideas. Encourages building on existing work instead of starting from scratch. Helps create local versions of successful ideas.
 
-## **3.3. Module 3: Teamwork & Finding Partners (*The Synergy Hub*)** 🤝🛠️🧑‍🤝‍🧑
+#3.3. Module 3: Teamwork & Finding Partners (*The Synergy Hub*)** 🤝🛠️🧑‍🤝‍🧑
     ### **3.3.1. Finding People with the Right Skills (**`ConnectSphere`**)** 🧩🔗
         *   **What:** An AI system that connects people who have ideas with people who have the skills they need, and vice versa.
         *   **How:** Users create profiles listing their skills (tech, creative, organizing, specific knowledge), interests, location, and how much time they have. Idea creators list the skills they need. The AI suggests good matches. Users can also search profiles and ask to connect.
@@ -169,7 +169,7 @@ This is the core of FTB – a detailed look at the connected parts designed to c
             *   *Fixathons:* Events organized by the platform (or by the community using platform tools), either online or offline (e.g., for 48 hours). Focused on quickly building prototypes or campaigns for chosen problems. Often have themes and sponsors.
         *   **Why:** Creates intense periods of activity, speeds up progress on important challenges, generates excitement and involvement.
 
-## **3.4. Module 4: Getting Resources & Support (*The Fuel Station*)** ⛽💰💪
+#3.4. Module 4: Getting Resources & Support (*The Fuel Station*)** ⛽💰💪
     ### **3.4.1. Marketplace for Needs (**`Resource Exchange`**)** 🛒📦
         *   **What:** A place for projects to list specific things they need (not money) and for others to offer help.
         *   **How:** Projects post requests for: Volunteers (specific tasks/time), Materials (tools, supplies), Space (meeting rooms, workshops), Free Services (legal, accounting, design). People and organizations can see the needs and offer to help.
@@ -187,7 +187,7 @@ This is the core of FTB – a detailed look at the connected parts designed to c
         *   **How:** Templates and basic editors for: Making short pitch videos, designing infographics, writing press releases or blog posts, creating social media campaign images. Access to free-to-use photos and music.
         *   **Why:** Helps teams with limited resources showcase their work professionally, raise awareness, and attract support.
 
-## **3.5. Module 5: Doing the Work & Tracking Impact (*The Results Dashboard*)** 📈📊✅
+#3.5. Module 5: Doing the Work & Tracking Impact (*The Results Dashboard*)** 📈📊✅
     ### **3.5.1. Tracking Project Progress (**`Milestone Mapper`**)** 🗺️📍
         *   **What:** A visual way to track a solution's journey through different stages.
         *   **How:** Teams update their status through stages like: Idea -> Design -> Prototype -> Pilot Test -> Community Use -> Scaling Up -> Finished/Ongoing. They can upload proof (reports, photos, stories) at each stage. A progress bar is visible to everyone.
@@ -209,7 +209,7 @@ This is the core of FTB – a detailed look at the connected parts designed to c
         *   **How:** Templates for creating "How-To" guides, writing down lessons learned, listing needed resources, and identifying key things for success. A "Ready to Replicate" tag shows a project is well-documented for others to use. Search filter for these replicable solutions.
         *   **Why:** Helps spread proven solutions to different communities and areas. Builds a national library of successful methods.
 
-## **3.6. Module 6: Community & Getting Involved (*The Town Square*)** 🏘️💬🎉
+#3.6. Module 6: Community & Getting Involved (*The Town Square*)** 🏘️💬🎉
     ### **3.6.1. Local Groups (**`Neighborhood Hubs`**)** 📍🤝
         *   **What:** Smaller communities within FTB focused on specific geographic areas.
         *   **How:** Users can join or start groups for their city, town, village, or college. These groups get their own pages for local news, organizing events (meetings, cleanups, local Fixathons), discussion forums on local issues, and highlighting local projects. Group leaders have tools to manage the group.
@@ -235,7 +235,7 @@ This is the core of FTB – a detailed look at the connected parts designed to c
         *   **How:** Platform editors or community reporters highlight successful projects, feature individual changemakers (especially from less represented groups), share video interviews, and write articles/blog posts about the impact being made. Featured weekly or monthly.
         *   **Why:** Inspires other users, shows the platform's value, attracts media attention, and celebrates the people making a difference.
 
-## **3.7. Module 7: Connecting with Others (**`The Network Weaver`**)** 🔗🏛️🌍
+#3.7. Module 7: Connecting with Others (**`The Network Weaver`**)** 🔗🏛️🌍
     ### **3.7.1. Connecting with Government & NGOs (**`Policy Pipeline`**)** 📨🏛️
         *   **What:** Ways to send relevant information and solutions to the right authorities and organizations.
         *   **How:**
@@ -256,7 +256,7 @@ This is the core of FTB – a detailed look at the connected parts designed to c
         *   **How:** Public access points (APIs) for non-sensitive data (like problem trends, project numbers). Researchers, journalists, or other tech platforms could potentially use FTB data (with strict privacy rules). Encouraging open sharing of successful project code or designs via links to sites like GitHub.
         *   **Why:** Supports a wider civic tech community. Allows others to analyze data and innovate. Promotes openness.
 
-## **3.8. Module 8: Learning & Skill Building (**`The Knowledge Hub`**)** 📚🧠💡
+#3.8. Module 8: Learning & Skill Building (**`The Knowledge Hub`**)** 📚🧠💡
     ### **3.8.1. Online Courses (**`Changemaker University`**)** 🎓📝
         *   **What:** A built-in learning section with resources and courses on civic innovation.
         *   **How:** A library of articles, toolkits, templates, and short video/interactive courses on topics like:
@@ -275,7 +275,7 @@ This is the core of FTB – a detailed look at the connected parts designed to c
         *   **How:** Links to government data sites, NGO reports, research papers, free software, guides. Organized by topic and searchable. The community can suggest new links.
         *   **Why:** A central place for valuable information, saving users research time.
 
-## **3.9. Module 9: Trust, Safety & Ethics (**`The Conscience Core`**)** 🙏🛡️⚖️
+#3.9. Module 9: Trust, Safety & Ethics (**`The Conscience Core`**)** 🙏🛡️⚖️
     ### **3.9.1. Clear Rules & Moderation (**`Guardian Protocols`**)** 📜🛡️
         *   **What:** Clear rules for behavior and active management to keep the platform positive and safe.
         *   **How:** Published community rules (be respectful, be truthful, no hate speech/fake news). A system for moderation (AI flags, user reports, human moderators). Clear process for moderation decisions and appeals.
